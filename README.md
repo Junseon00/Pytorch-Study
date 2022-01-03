@@ -1,3 +1,3 @@
-# Pytorch-study
+# Pytorch-Study
 
 Based on AI504
